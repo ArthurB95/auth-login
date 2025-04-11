@@ -1,5 +1,14 @@
 # Authentication API
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ArthurB95/auth-login?color=%2304D361">
 
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurB95/auth-login">
+  
+  <a href="https://github.com/ArthurB95/auth-login/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ArthurB95/auth-login">
+  </a>
+    
+</p>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
